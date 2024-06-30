@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumar2340029&show_icons=true&locale=en" alt="rahulkumar2340029" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar2340029&" alt="rahulkumar2340029" /></p>
+![Snake animation](https://github.com/RahulKumar2340029/RahulKumar2340029/blob/output/snake.svg)
