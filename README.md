@@ -1,3 +1,4 @@
+![Snake animation](https://raw.githubusercontent.com/RahulKumar2340029/RahulKumar2340029/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
