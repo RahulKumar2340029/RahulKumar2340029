@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">An Aspiring Developer from India</h3>
+<h3 align="center">A Software Enthusiast</h3>
 
 <p align="left"> <img src="https://api.kaltimprov.go.id/img/gifs/think.gif" alt="rahulkumar2340029" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Java, React, Tailwind**
+- 💬 Ask me about **Java, Python, JS**
 
 - 📫 How to reach me **karnrahul786@gmail.com**
 
