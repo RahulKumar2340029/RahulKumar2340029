@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkumar2340029" alt="rahulkumar2340029" /></a> </p>
 
-- 🔭 I’m currently working on **Examination Website**
+- 🔭 I’m currently working on **PrepIt**
 
 - 🌱 I’m currently learning **NextJS (SSR/SSG)**
 
